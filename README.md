@@ -1,4 +1,10 @@
-# Simple Python Flask Dockerized Application#
+# Hello, World! from Python3
+
+This project is a simple API that returns `Hello, World!` when you hit the root endpoint.
+
+It was inspired by work done by [Shekhar Gulati](https://github.com/shekhargulati) and forked from their original repo at <https://github.com/shekhargulati/python-flask-docker-hello-world>
+
+This is built using [Python3](https://docs.python.org/3), [the Flask microframework](http://flask.pocoo.org) and encapsulated within a [Docker](https://www.docker.com) container
 
 Build the image using the following command
 
